@@ -1,5 +1,5 @@
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://github.com/JetBrains/.github/blob/main/profile/README.md) [![IntelliJ IDEA build status](https://github.com/JetBrains/intellij-community/workflows/IntelliJ%20IDEA/badge.svg)](https://github.com/JetBrains/intellij-community/actions/workflows/IntelliJ_IDEA.yml) [![PyCharm build status](https://github.com/JetBrains/intellij-community/workflows/PyCharm/badge.svg)](https://github.com/JetBrains/intellij-community/actions/workflows/PyCharm.yml)
-<a target="_blank" href=https://anaconda.com/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.com%2Fapi%2Fprojects%2F6a44b89c-7157-434b-8ed0-a1c1533dee>
+
 # IntelliJ Open Source Repository
 
 This repository is the open-source part of the JetBrains IDEs codebase.
